@@ -1,0 +1,18 @@
+.container {
+    position: relative;
+}
+body {
+    background-color: gainsboro;
+    font-family: fantasy;
+    padding: 20px;
+}
+header {
+    text-align: center;
+    font-size: 45px;
+    margin: 5px;
+}
+button {
+    width: 100px;
+    background-color: cyan;
+    
+}
